@@ -50,6 +50,7 @@ The code started as a post-doctoral research project at the University of São P
 - Jacquelyn Noronha-Hostler, University of Illinois Urbana-Champaign, USA
 - Dekrayat Almaalol, University of Illinois at Urbana-Champaign, USA
 - Christopher Plumberg, Pepperdine University, USA
+- Débora Mroczek, University of Illinois at Urbana-Champaign, USA
 - Jordi Salinas San Martin, University of Illinois at Urbana-Champaign, USA
 - Willian M. Serenone, University of São Paulo, Brazil and University of Illinois Urbana-Champaign, USA
 - Kevin Ingles, University of Illinois Urbana-Champaign, USA
