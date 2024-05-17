@@ -6,9 +6,9 @@
 layout: page
 ---
 
-Thank you for your interest In our code. Right now, we are working on finishing the final details of the code and it will be available soon. Come back later to check it out!
-
 CCAKE is a relativistic viscous hydrodynamic code with 3 conserved charges (baryon number, strangeness, and electric charge) that uses Smoothed Particle Hydrodynamics. CCAKE can make state-of-the-art predictions for heavy-ion collisions and follows a multi-stage approach that includes initial conditions -> hydrodynamics -> freeze-out -> particle decays.  It uses the [4D lattice QCD equation of state](https://zenodo.org/record//6829115/) with T, baryon, strangeness, and electric charge that is coupled to the PDG16+.
+
+You can download it [here](https://github.com/the-nuclear-confectionery/CCAKE).
 
 If you have any questions, please [contact us](mailto:jnorhos@illinois.edu).
 
