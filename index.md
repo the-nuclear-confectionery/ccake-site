@@ -18,7 +18,7 @@ If you have any questions, please [contact us](mailto:jnorhos@illinois.edu).
 - 2013: First (2+1)D simulations including bulk viscosity.
 - 2014: vUSPHydro is ready, including Israel-Stewart type shear and bulk viscosity corrections.
 - 2020: vUSPHydro renamed to CCake --- Development of conservation of BQS charges starts.
-- 2023: Version 1.0.0 of CCake is scheduled to be released.
+- 2024: Version 1.0.0 of CCake is on the [arXiv](https://arxiv.org/pdf/2405.09648).
 - Under development:
     - Support for (3+1)D simulations.
     - Support for parallelism in both CPUs and GPUs.
@@ -38,6 +38,7 @@ If you have any questions, please [contact us](mailto:jnorhos@illinois.edu).
 <!--With hadronic resonances-->
 - [J. Noronha-Hostler, J. Noronha and M. Gyulassy, "Sensitivity of flow harmonics to subnucleon scale fluctuations in heavy ion collisions," Phys. Rev. C **93**, no.2, 024909 (2016)](https://doi.org/10.1103/PhysRevC.93.024909)
 - [P. Alba, V. Mantovani Sarti, J. Noronha, J. Noronha-Hostler, P. Parotto, I. Portillo Vazquez and C. Ratti, "Effect of the QCD equation of state and strange hadronic resonances on multiparticle correlations in heavy ion collisions," Phys. Rev. C **98**, no.3, 034909 (2018)](https://doi.org/10.1103/PhysRevC.98.034909)
+- 
 
 <!--## Talks and Posters
 
@@ -55,6 +56,7 @@ The code started as a post-doctoral research project at the University of São P
 - Willian M. Serenone, University of São Paulo, Brazil and University of Illinois Urbana-Champaign, USA
 - Kevin Ingles, University of Illinois Urbana-Champaign, USA
 - Isaac Long, University of Illinois Urbana-Champaign, USA
+- Fernando Gardim, Universidade Federal de Alfenas, Brazil
 
 ### Alumni developers
 - Travis Dore, currently at Universität Bielefeld, Germany
