@@ -19,15 +19,19 @@ If you have any questions, please [contact us](mailto:jnorhos@illinois.edu).
 - 2014: vUSPHydro is ready, including Israel-Stewart type shear and bulk viscosity corrections.
 - 2020: vUSPHydro renamed to CCake --- Development of conservation of BQS charges starts.
 - 2024: Version 1.0.0 of CCake is on the [arXiv](https://arxiv.org/pdf/2405.09648).
-- Under development:
+- 2025: Version 2.0.0 of CCake is on the [arXiv](https://arxiv.org/abs/2511.22852)
     - Support for (3+1)D simulations.
     - Support for parallelism in both CPUs and GPUs.
     - Inclusion of DNMR terms.
+    - Hyperbolic and Cartesian coordinates for 
 - Future:
     - Inclusion of BSQ charge diffusion terms.
     - Adaptive Smoothed Particle Hydrodynamics.
 
 ## Publications
+
+<!--CCAKE-v1-->
+- [C. Plumberg, D. Almaalol, T. Dore, D. Mroczek, J. Salinas San Martín, W. M. Serenone, L. Spychalla, P. Carzon, M. Sievert, F. G. Gardim, & J. Noronha-Hostler. "Conservation of B, S, and Charges in Relativistic Viscous Hydrodynamics Solved with Smoothed Particle Hydrodynamics," Phys. Rev. C **111** no.4, 044905 (2025)](https://journals.aps.org/prc/pdf/10.1103/PhysRevC.111.044905)
 
 <!--Ideal Hydro-->
 - [J. Noronha-Hostler, J. Noronha, G. S. Denicol, R. P. G. Andrade, F. Grassi and C. Greiner, "Elliptic Flow Suppression due to Hadron Mass Spectrum," Phys. Rev. C **89**, no.5, 054904 (2014)](https://www.doi.org/10.1103/PhysRevC.89.054904)
@@ -57,6 +61,8 @@ The code started as a post-doctoral research project at the University of São P
 - Kevin Ingles, University of Illinois Urbana-Champaign, USA
 - Isaac Long, University of Illinois Urbana-Champaign, USA
 - Fernando Gardim, Universidade Federal de Alfenas, Brazil
+- Surkhab Kaur Virk, University of Illinois Urbana-Champaign, USA
+- Kevin P. Pala, University of São Paulo, Brazil and University of Illinois Urbana-Champaign, USA
 
 ### Alumni developers
 - Travis Dore, currently at Universität Bielefeld, Germany
