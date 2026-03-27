@@ -12,6 +12,8 @@ You can download it [here](https://github.com/the-nuclear-confectionery/CCAKE).
 
 If you have any questions, please [contact us](mailto:jnorhos@illinois.edu).
 
+If you use this code in your research, please find the citation information [here](https://github.com/the-nuclear-confectionery/CCAKE) in the ReadMe Section.
+
 ## Roadmap
 
 - 2011: Development started.
